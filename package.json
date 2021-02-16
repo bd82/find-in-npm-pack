@@ -1,0 +1,27 @@
+{
+  "name": "find-in-npm-pack",
+  "version": "0.1.0",
+  "bin": "index.js",
+  "repository": "https://github.com/bd82/find-in-npm-pack.git",
+  "author": "Shahar Soel",
+  "license": "MIT",
+  "description": "searches for text inside npm pack resulting tar file",
+  "keywords": [
+    "npm pack",
+    "text search"
+  ],
+  "dependencies": {
+    "minimist": "^1.2.5",
+    "tar" : "^6.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+  },
+  "typings": "api.d.ts",
+  "files": [
+    "lib",
+    "LICENSE",
+    "CHANGELOG.md",
+    "README.md"
+  ]
+}
