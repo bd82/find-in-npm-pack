@@ -5,7 +5,7 @@
   "repository": "https://github.com/bd82/find-in-npm-pack.git",
   "author": "Shahar Soel",
   "license": "MIT",
-  "description": "searches for text inside npm pack's tar file result",
+  "description": "searches for exact text inside npm pack's tar file result",
   "keywords": [
     "npm pack",
     "text search"
